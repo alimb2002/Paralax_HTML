@@ -13,12 +13,12 @@ header{
     
      display: flex;
        background-image: url(../images/city2.jpeg);
-       background-repeat: no-repeat;
+       
      background-attachment: fixed;
    
     align-items: center;
     justify-content: center;
-     min-height: 100vh;
+     height: 100vh;
 }
 
 /*
